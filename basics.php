@@ -1,5 +1,4 @@
 <?php
-// PHP use $ to declare a variable
 
 // Assigning value to a variable
 $foobar = "abc";
